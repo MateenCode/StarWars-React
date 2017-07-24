@@ -1,7 +1,11 @@
 ## StarWars-React
+Fetched info from api and displayed it in react component.
 
 
 
+## ScreenShot
+
+![96895371-screencapture-localhost-3000-1500426375125](https://user-images.githubusercontent.com/28902787/28540221-1baeebd0-707a-11e7-9538-ddb535608ea5.png)
 
 
 
